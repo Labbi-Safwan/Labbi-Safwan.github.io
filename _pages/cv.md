@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* PhD in Federated Reinforcement Learning, Ecole Polytechnique, October 2023-Now 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* *October 2023-Now:* PhD in Federated Reinforcement Learning, Ecole Polytechnique, October 2023-Now 
+* *2022-2023:*Master 2 in Applied Mathematics and Machine Learning, Université Paris-Saclay (Master MVA et troisième année du cycle ingénieur)
+* *2021-2022:*Master 1 in Applied Mathematics and Machine Learning, Télécom Paris (Deuxième année du cycle ingénieur)
+* *2020-2021:* Thid year of Bachelor in Mathematics, Physics and Computer Science, Télécom Paris (Première année du cycle ingénieur)
+* *2019-2020:* Second year of Bachelor in Mathematics, Physics and Computer Science, Lycée du Parc, Lyon (Prépa MP*)
+* *2018-2019:* First year of Bachelor in Mathematics, Physics and Computer Science, Lycée Daudet, Nîmes (Prépa MPSI)
 
-Work experience
+Work experience/Research Internships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2023-September 2023 (6 months): Biomedical Informatics Lab, ETH Zurich
+  * Research Internship
+  * Topic: Model Selection In Deep Learning using PAC-Bayes Bounds.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2022-September 2022 (3 months): LTCI lab, Télécom Paris
+  * Research Internship
+  * Topic: Variationnal Inference 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Melexis, Neuchâtel, Switzerland
+  * Summer internship in Automatisation
+  * Duties included:  Program a user interface in Python that coordinates different lab equipment for sensors measurements; Manipulate several current sensors and lab devices (current source, magnetic field generator, sourcemeter, etc.) to rigorously test the program.
   
 Service
 ======
