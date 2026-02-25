@@ -18,4 +18,7 @@ My research interests include
 
 News
 ======
--  *October 2023*: I am starting a PhD at Ecole Polytechnique!
+-  *January 2026:* Two of my papers as a first-author were accepted at ICLR 2026 and AISTATS 2026, respectively: ["Beyond Softmax and Entropy: Convergence Rates of Policy Gradients with  
+f-SoftArgmax Parameterization & Coupled Regularization"](https://openreview.net/forum?id=O93c9H4SXc) and ["On Global Convergence Rates for Federated Softmax Policy Gradient under Heterogeneous Environments"] (https://openreview.net/forum?id=aPAq9U7MFm)! I will attend both conferences to present my work. Feel free to come chat if you’d like to discuss federated learning or policy gradients!
+-  *January 2025:* My first paper as a first-author ['Federated UCBVI: Communication-Efficient Federated Regret Minimization with Heterogeneous Agents'](https://proceedings.mlr.press/v258/labbi25a.html) has been accepted at AISTATS 2025!
+-  *October 2023:* I am starting a PhD at Ecole Polytechnique!
