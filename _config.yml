@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Personal page of Safwan Labbi"
 title_separator          : "-"
 name                     : &name "Safwan Labbi"
@@ -23,7 +23,7 @@ repository               : "https://github.com/Labbi-Safwan/Labbi-Safwan.github.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "safwan.jpg"
+  avatar           : "safwan.png"
   name             : "Safwan Labbi"
   pronouns         : # example: "she/her"  
   bio              : "Hi! I am a third year PhD student working on Reinforcement Learning/Federated Learning"
