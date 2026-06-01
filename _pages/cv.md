@@ -8,17 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+======
+You can also find [here](https://github.com/Labbi-Safwan/Labbi-Safwan.github.io/tree/main/files/CV_SafwanLabbi) a pdf version of my CV.
+
 
 Education
 ======
-* *October 2023-Now:* PhD in Federated Reinforcement Learning, Ecole Polytechnique, October 2023-Now 
+* *October 2023-Now:* PhD in Federated Reinforcement Learning, Ecole Polytechnique
 * *2022-2023:* Master 2 in Applied Mathematics and Machine Learning, Université Paris-Saclay (Master MVA et troisième année du cycle ingénieur)
 * *2021-2022:* Master 1 in Applied Mathematics and Machine Learning, Télécom Paris (Deuxième année du cycle ingénieur)
 * *2020-2021:* Third year of Bachelor in Mathematics, Physics and Computer Science, Télécom Paris (Première année du cycle ingénieur)
 * *2019-2020:* Second year of Bachelor in Mathematics, Physics and Computer Science, Lycée du Parc, Lyon (Prépa MP*)
 * *2018-2019:* First year of Bachelor in Mathematics, Physics and Computer Science, Lycée Daudet, Nîmes (Prépa MPSI)
 
-Work experience/Research Internships
+Work experience / Internships
 ======
 * April 2023-September 2023 (6 months): Biomedical Informatics Lab, ETH Zurich
   * Research Internship
