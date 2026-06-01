@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-You can also find [here](https://github.com/Labbi-Safwan/Labbi-Safwan.github.io/tree/main/files/CV_SafwanLabbi.pdf) a pdf version of my CV.
+You can also find [here](https://labbi-safwan.github.io/files/CV_SafwanLabbi.pdf) a pdf version of my CV.
 
 
 Education
