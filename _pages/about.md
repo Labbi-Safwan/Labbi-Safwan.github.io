@@ -16,7 +16,7 @@ My research interests include
 - Theory of Reinforcement Learning
 - Federated Learning and Personalization
 
-****Feel free to reach out if you would like to discuss any of these questions. I am always happy to chat! You can contact me by email at safwan.labbi@polytechnique.edu.****
+**Feel free to reach out if you would like to discuss any of these questions. I am always happy to chat! You can contact me by email at safwan.labbi@polytechnique.edu.**
 
 News
 ======
