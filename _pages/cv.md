@@ -8,32 +8,33 @@ redirect_from:
 ---
 
 
-You can also find [here](https://labbi-safwan.github.io/files/CV_SafwanLabbi.pdf) a pdf version of my CV.
+A PDF version of my CV is available [here](https://labbi-safwan.github.io/files/CV_SafwanLabbi.pdf).
 
+## Education
 
-Education
-======
-* *October 2023-Now:* PhD in Federated Reinforcement Learning, Ecole Polytechnique
-* *2022-2023:* Master 2 in Applied Mathematics and Machine Learning, Université Paris-Saclay (Master MVA et troisième année du cycle ingénieur)
-* *2021-2022:* Master 1 in Applied Mathematics and Machine Learning, Télécom Paris (Deuxième année du cycle ingénieur)
-* *2020-2021:* Third year of Bachelor in Mathematics, Physics and Computer Science, Télécom Paris (Première année du cycle ingénieur)
-* *2019-2020:* Second year of Bachelor in Mathematics, Physics and Computer Science, Lycée du Parc, Lyon (Prépa MP*)
-* *2018-2019:* First year of Bachelor in Mathematics, Physics and Computer Science, Lycée Daudet, Nîmes (Prépa MPSI)
+* **October 2023 – Present:** PhD in Federated Reinforcement Learning, École Polytechnique.
+* **2022 – 2023:** Master 2 in Applied Mathematics and Machine Learning, Université Paris-Saclay  
+  *(Master MVA and third year of the engineering cycle).*
+* **2021 – 2022:** Master 1 in Applied Mathematics and Machine Learning, Télécom Paris  
+  *(Second year of the engineering cycle).*
+* **2020 – 2021:** Third year of Bachelor studies in Mathematics, Physics, and Computer Science, Télécom Paris  
+  *(First year of the engineering cycle).*
+* **2019 – 2020:** Second year of Bachelor studies in Mathematics, Physics, and Computer Science, Lycée du Parc, Lyon  
+  *(Classe préparatoire MP\*).*
+* **2018 – 2019:** First year of Bachelor studies in Mathematics, Physics, and Computer Science, Lycée Daudet, Nîmes  
+  *(Classe préparatoire MPSI).*
 
-Work experience / Internships
-======
-* April 2023-September 2023 (6 months): Biomedical Informatics Lab, ETH Zurich
-  * Research Internship
-  * Topic: Model Selection In Deep Learning using PAC-Bayes Bounds.
+## Work Experience and Internships
 
-* July 2022-September 2022 (3 months): LTCI lab, Télécom Paris
-  * Research Internship
-  * Topic: Variationnal Inference 
+* **April 2023 – September 2023:** Research Intern, Biomedical Informatics Lab, ETH Zurich.  
+  **Topic:** Model selection in deep learning using PAC-Bayes bounds.
 
-* Summer 2021 (2 months): Melexis, Neuchâtel, Switzerland
-  * Summer internship in Automatisation
-  * Duties included:  Program a user interface in Python that coordinates different lab equipment for sensors measurements; Manipulate several current sensors and lab devices (current source, magnetic field generator, sourcemeter, etc.) to rigorously test the program.
-  
-Service
-======
-* I serve as a reviewer for NeurIPS, AISTATS, ICLR, ICML and TMLR.
+* **July 2022 – September 2022:** Research Intern, LTCI Lab, Télécom Paris.  
+  **Topic:** Variational inference.
+
+* **Summer 2021:** Automation Intern, Melexis, Neuchâtel, Switzerland.  
+  **Duties:** Developed a Python user interface coordinating laboratory equipment for sensor measurements, and tested current sensors using lab devices such as current sources, magnetic-field generators, and sourcemeters.
+
+## Service
+
+* Reviewer for **NeurIPS**, **AISTATS**, **ICLR**, **ICML**, and **TMLR**.
