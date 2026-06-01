@@ -11,26 +11,72 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Publications</h2>
+<hr />
 
+<ol class="bibliography">
+
+  <li>
+    <p>
+      <strong>Refined Analysis of Entropy-Regularized Actor-Critic</strong><br />
+      <strong>Safwan Labbi</strong>, Paul Mangold, Daniil Tiapkin, Eric Moulines.<br />
+      <em>ICML 2026.</em><br />
+      <a href="https://arxiv.org/abs/2605.24357" target="_blank">arXiv</a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>Beyond Softmax and Entropy: Convergence Rates of Policy Gradients with
+      <em>f</em>-SoftArgmax Parameterization &amp; Coupled Regularization</strong><br />
+      <strong>Safwan Labbi</strong>, Daniil Tiapkin, Paul Mangold, Eric Moulines.<br />
+      <em>arXiv preprint, 2026.</em><br />
+      <a href="https://arxiv.org/abs/2601.12604" target="_blank">arXiv</a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>On Global Convergence Rates for Federated Softmax Policy Gradient under
+      Heterogeneous Environments</strong><br />
+      <strong>Safwan Labbi</strong>, Paul Mangold, Daniil Tiapkin, Eric Moulines.<br />
+      <em>AISTATS 2026.</em><br />
+      <a href="https://arxiv.org/abs/2505.23459" target="_blank">arXiv</a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>Federated UCBVI: Communication-Efficient Federated Regret Minimization
+      with Heterogeneous Agents</strong><br />
+      <strong>Safwan Labbi</strong>, Daniil Tiapkin, Lorenzo Mancini, Paul Mangold,
+      Eric Moulines.<br />
+      <em>AISTATS 2025.</em><br />
+      <a href="https://arxiv.org/abs/2410.22908" target="_blank">arXiv</a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>SCAFFLSA: Taming Heterogeneity in Federated Linear Stochastic Approximation
+      and TD Learning</strong><br />
+      Paul Mangold, Sergey Samsonov, <strong>Safwan Labbi</strong>, Ilya Levin,
+      Reda Alami, Alexey Naumov, Eric Moulines.<br />
+      <em>NeurIPS 2024.</em><br />
+      <a href="https://arxiv.org/abs/2402.04114" target="_blank">arXiv</a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>Joint Channel Selection using FedDRL in V2X</strong><br />
+      Lorenzo Mancini, <strong>Safwan Labbi</strong>, Karim Abed Meraim,
+      Fouzi Boukhalfa, Alain Durmus, Paul Mangold, Eric Moulines.<br />
+      <em>arXiv preprint, 2024.</em><br />
+      <a href="https://arxiv.org/abs/2410.20687" target="_blank">arXiv</a>
+    </p>
+  </li>
+
+</ol>
 
 
