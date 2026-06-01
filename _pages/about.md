@@ -16,6 +16,8 @@ My research interests include
 - Theory of Reinforcement Learning
 - Federated Learning and Personalization
 
+****Feel free to reach out if you would like to discuss any of these questions. I am always happy to chat! You can contact me by email at safwan.labbi@polytechnique.edu.****
+
 News
 ======
 - *May 2026:* I am thrilled to announce that our work entitled ["Refined Analysis of Entropy-Regularized Actor-Critic"](https://arxiv.org/pdf/2605.24357) have been accepted at ICML 2026! has been accepted at ICML 2026! In this paper, we provide a new analysis of entropy-regularized actor-critic methods and formally establish, for the first time, that actor-critic can be understood as a variance-reduction method. I will be attending the conference to present our work, so feel free to come chat if you would like to learn more about our results!
